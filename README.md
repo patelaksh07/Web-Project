@@ -20,6 +20,4 @@ An online learning platform that allows students to access courses, watch video 
 - PHP
 - MySQL
 
-## 👨‍💻 Developed By
-Aksh Patel
-B.Tech Computer Engineering
+
